@@ -1,4 +1,6 @@
 ### Hi there 👋
+# 自我介绍
+我是计算2113唐磊，来自广西南宁，喜欢学习，运动，美食，睡觉，偶尔打下游戏；时而摆烂时而学习，在jmu感觉还行，天天吃西苑真的要瘦死啦。学习过HTML,CSS,JS语言（还没学完），Java web，以后想先考研，再从事后端开发。目前在和老师学习中小学生体育健康项目。
 
 <!--
 **sugarT6/sugarT6** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
